@@ -4,7 +4,7 @@ This repository contains a script to set up a LAMP stack (Linux, Apache, MariaDB
 
 ## Prerequisites
 
-- A server running a Debian-based distribution (e.g., Ubuntu)
+- A server running a Ubuntu
 - Root or sudo access to the server
 - A domain name pointed to your server's IP address
 
